@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/God-simulator/', // change if needed
+  base: '/god-simulator/', // change if needed
 })
